@@ -30,16 +30,6 @@ To run tests, enter `$ yarn test` in the terminal.
 - Enzyme - Airbnb's test suite, allows for shallow rendering, snapshotting components and more
 - Rspec - Testing Ruby code (useful if your backend is built in rails!)
 
-## SWBATS
-
-- Learn about different testing software classifications
-- Define Jest and learn how it is used
-- test reducers
-- Define and integrate enzyme
-- use snapshot testing
-- test if Child Components are rendering
-- test if Components are receiving and rendering props
-
 ## Setting up test environment
 
 To add Enzyme: \$ yarn add enzyme enzyme-adapter-react-16
